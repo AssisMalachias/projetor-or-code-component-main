@@ -1,0 +1,15 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+}
+body{
+     background-color:#d5e1ef;
+     font-family:'Outfit', sans-serif;
+}
+.content{
+     width:100%;
+     max-width:1400px;
+     min-width:200px;
+     margin:0 auto;
+}

@@ -1,0 +1,52 @@
+main  .cartao-qr{
+     display:flex;
+     flex-direction: row;
+     justify-content:center;
+     margin-top:20%;
+}
+
+
+main  .cartao-codigo{
+     width:321px;
+     height:500px;
+     background-color:#ffff;
+     padding:15px;
+     border-radius:14px;
+     transition:0.2s ease-in-out;
+}
+
+
+.codigo-qr-web img{
+     width:291px;
+     height:287px;
+     border-radius:14px;
+}
+.codigo-qr-web h1{
+     width:250px;
+     font-size:22px;
+     color:#272e48;
+     text-align: center;
+     margin-top:20px;
+     margin-left:20px;
+     line-height:27px;
+ }
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+ main .codigo-qr-web p{
+     width:290px;
+     font-size:17px;
+     color:#66647994;
+     text-align: center;
+     margin-top:17px;
+}
